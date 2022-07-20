@@ -1,0 +1,6 @@
+[submodule "SubProject"]
+	path = SubProject
+	url = https://github.com/vaqasyounus/SubProject.git
+[submodule "Eyecon"]
+	path = Eyecon
+	url = https://github.com/vaqasyounus/Eyecon.git
